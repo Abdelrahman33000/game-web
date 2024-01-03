@@ -12,10 +12,10 @@ const Header = () => {
       />
 
       <div className="  ">
-        <p className="" style={{ color: "#093266", fontSize: "20px" }}>
+        <h1 className="" style={{ color: "#093266", fontSize: "20px" }} dir="rtl">
           {" "}
           "العاب السلامة وتنمية الفكر ارجوحة"
-        </p>
+        </h1>
       </div>
     </header>
   );

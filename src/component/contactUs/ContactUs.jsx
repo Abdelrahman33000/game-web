@@ -14,8 +14,8 @@ const ContactUs = () => {
         <h1 className="mb-4">
           <b>نموذج الاتصال </b>{" "}
         </h1>
-        <h2 style={{fontSize:"25px"}}>نحن هنا دائمًا من أجلك لتقديم أفضل خدمة
-</h2>
+        <h4 style={{fontSize:"20px"}}>نحن هنا دائمًا من أجلك لتقديم أفضل خدمة
+</h4>
       </div>
 
       <div className="container-fluide side rounded-5    me-2 ">
