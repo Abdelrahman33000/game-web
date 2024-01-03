@@ -16,8 +16,8 @@ const Products = () => {
         <img src={img2} alt=""   className='imgPro'/>
 
         <ContactUs />
-        <iframe title='jeddah' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14946557.556589179!2d34.426048167417875!3d23.851935476203852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15e7b33fe7952a41%3A0x5960504bc21ab69b!2sSaudi%20Arabia!5e0!3m2!1sen!2seg!4v1704259460171!5m2!1sen!2seg"  style={{width:"100%"}} height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
+        <iframe title='العاب السلام و تنيمه الفكر' style={{width:"100%"}} src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3629.153196024286!2d39.5969248!3d24.5493676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15bdbd04fc5f70df%3A0x7d01a8e958b08010!2z2KfZhNi52KfYqCDYp9mE2LPZhNin2YUg2Ygg2KrZhtmK2YXZhyDYp9mE2YHZg9ix!5e0!3m2!1sen!2seg!4v1704287317332!5m2!1sen!2seg" width="600" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
   )
 }
 
