@@ -14,22 +14,21 @@ const ContactUs = () => {
         <h1>
           <b className="" >نموذج الاتصال </b>{" "}
         </h1>
-        <p>نحن هنا دائمًا من أجلك لتقديم أفضل خدمة
+        <p style={{fontSize:"25px"}}>نحن هنا دائمًا من أجلك لتقديم أفضل خدمة
 </p>
       </div>
 
       <div className="container-fluide side rounded-5    me-2 ">
         <div className="row">
 
-          <div className="side1  mx-3  mb-5 rounded-4 mt-2 shadow-lg  col-lg-3">
+          <div className="side1  ms-2  mb-5 rounded-4 mt-2 shadow-lg  col-lg-3">
         <Lottie animationData={contact}   />
 
-            <h4 className="p-4">طلب معاودة الاتصال
+            <h4  className="p-5">طلب معاودة الاتصال
 </h4>
-            <h6 className="mx-4 mb-4">ما عليك سوى ترك رقم الاتصال الخاص بك، وسنعاود الاتصال بك.
+            <h5  className="mx-4 mb-4">ما عليك سوى ترك رقم الاتصال الخاص بك، وسنعاود الاتصال بك.
 
-
-</h6>
+</h5>
 <div className="p-4 text-center"  dir="rtl">
   
   <button className="p-3 mb-5 w-50 rounded-4 btn5"><Link to={"https://api.whatsapp.com/send?phone=966545311121"} style={{textDecoration:"none" , color:"#fff"}}> راسلنا على الواتس 

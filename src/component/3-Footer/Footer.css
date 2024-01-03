@@ -1,16 +1,20 @@
 .footer{
     background-color: #ffa200;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     gap: 20px;
     padding: 5px 30px;
     text-align: center;
+    font-size: 20px;
+    
+
 }
 
 .link{
     text-decoration: none;
     color: #00000079;
     margin-left: 10px;
+    font-size: 20px;
 
 }
 .link:hover{

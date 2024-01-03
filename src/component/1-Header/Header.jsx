@@ -3,18 +3,18 @@ import React from "react";
 import Logo from "../images/Logo.jpg";
 const Header = () => {
   return (
-    <header className="d-flex justify-content-between mx-5   my-3 align-items-center">
+    <header className="d-flex justify-content-between mx-2   my-3 align-items-center">
       <img
         src={Logo}
         alt="Logo"
-        style={{ width: "80px", height: "100px" }}
+        style={{ width: "70px", height: "100px" }}
         className="me-3 img"
       />
 
-      <div className=" mail ">
-        <p className="" style={{ color: "#093266", fontSize: "25px" }}>
+      <div className="  ">
+        <p className="" style={{ color: "#093266", fontSize: "20px" }}>
           {" "}
-          ألعاب السلامه
+          "العاب السلامة وتنمية الفكر ارجوحة"
         </p>
       </div>
     </header>
