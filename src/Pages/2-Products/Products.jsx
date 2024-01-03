@@ -11,7 +11,7 @@ const Products = () => {
     <div className='productsPage' >
         <h1> جميع المنتجات</h1>
         <img src={img} alt=""   className='imgPro my-5'/ >
-        <h2 style={{textAlign:"right"}}> "العاب السلامة وتنمية الفكر ارجوحة"  </h2>
+        <h3 style={{textAlign:"right"}}> "العاب السلامة وتنمية الفكر ارجوحة"  </h3>
   
         <img src={img1} alt=""   className='imgPro'/> 
         <img src={img2} alt=""   className='imgPro'/>
