@@ -11,11 +11,11 @@ const ContactUs = () => {
 
 
       <div className="  text-center p-4">
-        <h1>
-          <b className="" >نموذج الاتصال </b>{" "}
+        <h1 className="mb-4">
+          <b>نموذج الاتصال </b>{" "}
         </h1>
-        <p style={{fontSize:"25px"}}>نحن هنا دائمًا من أجلك لتقديم أفضل خدمة
-</p>
+        <h2 style={{fontSize:"25px"}}>نحن هنا دائمًا من أجلك لتقديم أفضل خدمة
+</h2>
       </div>
 
       <div className="container-fluide side rounded-5    me-2 ">
