@@ -6,8 +6,8 @@ const NavBar = () => {
 
     const lists = [
         { name: " الصفحة الرئيسية", url: "/"  , id:"1"},
-        { name: " جميع المنتجات", url: "/about" , id:"2"},
-        { name: " العاب بنات", url: "/projects " , id:"3"},
+        { name: " جميع المنتجات", url: "/products" , id:"2"},
+        { name: "  البوم الصور", url: "/gallery" , id:"3"},
         { name: "  المسابح ومسلتزماتها", url: "/products " , id:"4"},
         { name: "  القطنيات والهدايا", url: "/Contact" , id:"5"},
       ];

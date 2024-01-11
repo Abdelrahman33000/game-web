@@ -1,0 +1,22 @@
+.gallery h1{
+    background-color: #ffa200;
+    padding: 50px;
+}
+
+.gallery p{
+    background-color: azure;
+    padding: 15px ;
+    margin: 30px 100px;
+    box-shadow: 10px 10px 20px #000 , 10px 10px 20px #000 ;
+    border-radius: 50px 0;
+    transition: .5s;
+}
+
+.gallery p:hover{
+    scale: 1.03;
+    cursor: pointer;
+}
+
+.gallery p:active{
+    scale: .95;
+}
