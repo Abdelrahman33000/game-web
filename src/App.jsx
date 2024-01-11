@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
-import { Gallery, Products } from "./Pages";
+import { AllImages, Gallery, Products } from "./Pages";
 import { Footer, Header, NavBar } from "./component";
 
 function App() {
@@ -12,6 +12,7 @@ function App() {
         <Routes>
           <Route path="/products" element={ <Products />} />
           <Route  path="/gallery" element={<Gallery />} />
+          <Route  path="/all" element={<AllImages />} />
         </Routes>
         <Footer />
       </div>
