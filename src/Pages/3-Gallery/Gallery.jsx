@@ -8,7 +8,7 @@ const Gallery = () => {
     <div dir='rlt' style={{  textAlign:"center"}} className='gallery'>
       <h1 style={{marginBottom:"0"}}>  مرحباً بكم في الألبوم الخاص بنا  </h1>
       <Config />
-      <p> <Link  to={'/all'} style={{textDecoration:"none" , color:"#000"}}>   جميع الصور    </Link> </p>
+     <Link  to={'/all'} style={{textDecoration:"none" , color:"#000"}}> <p>  جميع الصور  </p>   </Link> 
       <p>  قسم المراجيح  </p>
       <p>  قسم الزحاليق  </p>
       <p>  قسم المواليد  </p>
