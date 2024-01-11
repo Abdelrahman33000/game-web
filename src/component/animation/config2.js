@@ -34,7 +34,7 @@ const Config = () => {
                     }
                   },
                   "color": {
-                    "value": "#5613fd"
+                    "value": "#ffa200"
                   },
                   "shape": {
                     "type": "polygon",
