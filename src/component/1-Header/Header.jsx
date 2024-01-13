@@ -11,11 +11,12 @@ const Header = () => {
         className="me-3 img"
       />
 
-      <div className="  ">
-        <h1 className="" style={{ color: "#093266", fontSize: "20px" }} dir="rtl">
+      <div className=" text-end  " >
+        <p  className="" style={{ color: "#093266", fontSize: "20px" }} dir="rtl">
           {" "}
           "العاب السلامة وتنمية الفكر ارجوحة"
-        </h1>
+        </p>
+        <img src="/phone-call-svgrepo-com.svg" alt="" width={20} /> <span> +966 54 531 1121 </span>
       </div>
     </header>
   );
